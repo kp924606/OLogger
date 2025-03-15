@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxtQhOoStEQ=",
+  "success": true,
+  "projectFilePath": "D:\\蔡承廷\\Development\\My\\OLogger\\OLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
