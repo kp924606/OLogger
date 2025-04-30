@@ -57,3 +57,4 @@ D:\蔡承廷\Development\My\OLogger\obj\Debug\net8.0\OLogger.dll
 D:\蔡承廷\Development\My\OLogger\obj\Debug\net8.0\refint\OLogger.dll
 D:\蔡承廷\Development\My\OLogger\obj\Debug\net8.0\OLogger.pdb
 D:\蔡承廷\Development\My\OLogger\obj\Debug\net8.0\ref\OLogger.dll
+D:\蔡承廷\Development\My\OLogger\obj\Debug\net8.0\OLogger.sourcelink.json

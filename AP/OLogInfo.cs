@@ -190,7 +190,7 @@ namespace OLogger.AP
                 };
                 
                 // 添加到配置中
-                config.AddRule(NLog.LogLevel.Trace, NLog.LogLevel.Off, fileTarget);
+                config.AddRule(LogLevel.Trace, LogLevel.Off, fileTarget);
                 LogManager.Configuration = config;
                 this.logger = LogManager.GetCurrentClassLogger();
             }
